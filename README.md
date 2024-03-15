@@ -19,8 +19,7 @@ Overall, an app built with this contract can offer a decentralized and secure em
   
 <hr/>
 
-## youtube demo video
-https://youtu.be/bF7kVFtan2U
+
 
 
 ### Built Using :
